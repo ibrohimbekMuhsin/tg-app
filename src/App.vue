@@ -6,7 +6,6 @@
 
 <script>
 
-
 import WebCamTest from "@/components/WebCamTest.vue";
 
 export default {
